@@ -1,0 +1,64 @@
+﻿  FingerDlg.cpp
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(227): warning C4101: “pWnd2”: 未引用的局部变量
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(462): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(476): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(479): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(484): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(723): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(955): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(1083): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(1116): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(1117): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(1201): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(1236): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(1723): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(1746): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(1748): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(1770): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(1774): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(1775): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(1983): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2022): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2029): warning C4996: 'filelength': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _filelength. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(484): note: 参见“filelength”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2113): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2125): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2197): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2203): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2204): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2215): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2225): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2307): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2319): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2433): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2404): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2409): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2422): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2423): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2436): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2440): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\李闯\desktop\finger-6.13-识别问题\finger\finger\fingerdlg.cpp(2445): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  Finger.vcxproj -> C:\Users\李闯\Desktop\Finger-6.13-识别问题\Finger\Debug\Finger.exe
+  Finger.vcxproj -> C:\Users\李闯\Desktop\Finger-6.13-识别问题\Finger\Debug\Finger.pdb (Partial PDB)
